@@ -32,7 +32,19 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tonywangcn&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tonywangcn&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonywangcn)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
+### :writing_hand: Blog Posts :
+
+
+
+
+2017-02-28 [How to build a scaleable crawler to crawl million pages with a single machine in just 2 hours](https://medium.com/@tonywangcn/how-to-build-a-scaleable-crawler-to-crawl-million-pages-with-a-single-machine-in-just-2-hours-ab3e238d1c22)
+
+2023-06-12 [A Step-by-Step Guide to Building a Scalable Distributed Crawler for Scraping Millions of Top TikTok Profiles](https://dev.to/tonywangca/a-step-by-step-guide-to-building-a-scalable-distributed-crawler-for-scraping-millions-of-top-tiktok-profiles-2pk8)
