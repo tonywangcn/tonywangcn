@@ -46,3 +46,6 @@
 2017-02-28 [How to build a scaleable crawler to crawl million pages with a single machine in just 2 hours](https://medium.com/@tonywangcn/how-to-build-a-scaleable-crawler-to-crawl-million-pages-with-a-single-machine-in-just-2-hours-ab3e238d1c22)
 
 2023-06-12 [A Step-by-Step Guide to Building a Scalable Distributed Crawler for Scraping Millions of Top TikTok Profiles](https://dev.to/tonywangca/a-step-by-step-guide-to-building-a-scalable-distributed-crawler-for-scraping-millions-of-top-tiktok-profiles-2pk8)
+
+2023-08-01 [How to efficiently scrape millions of Google Businesses on a large scale using a distributed crawler](https://medium.com/@tonywangcn/how-to-efficiently-scrape-millions-of-google-businesses-on-a-large-scale-using-a-distributed-35b9140030eb)
+
