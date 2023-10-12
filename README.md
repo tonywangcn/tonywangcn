@@ -56,4 +56,4 @@
 
 ### Self-hosted Architecture
 
-![Self-hosted Architecture](./img/self-hosted%20architecture%20diagram.png)
+![Self-hosted Architecture](https://raw.githubusercontent.com/tonywangcn/tonywangcn/main/img/self-hosted%20architecture%20diagram.png)
