@@ -50,6 +50,10 @@
 2023-08-01 [How to efficiently scrape millions of Google Businesses on a large scale using a distributed crawler](https://medium.com/@tonywangcn/how-to-efficiently-scrape-millions-of-google-businesses-on-a-large-scale-using-a-distributed-35b9140030eb)
 
 
-### Uptime Status Page For Personal Projects
+### Uptime Status Page For Self-hosted projects
 
 [Uptime](https://uptime.doask.net/status/cloud)
+
+### Self-hosted Architecture
+
+![Self-hosted Architecture](./img/self-hosted%20architecture%20diagram.png)
