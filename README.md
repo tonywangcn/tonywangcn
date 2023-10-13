@@ -49,7 +49,7 @@
 
 2023-08-01 [How to efficiently scrape millions of Google Businesses on a large scale using a distributed crawler](https://medium.com/@tonywangcn/how-to-efficiently-scrape-millions-of-google-businesses-on-a-large-scale-using-a-distributed-35b9140030eb)
 
-2023-10-13 [The Architecture of a Web Crawler: Building a Google-Inspired Distributed Web Crawler. Part 1](The Architecture of a Web Crawler: Building a Google-Inspired Distributed Web Crawler. Part 1)
+2023-10-13 [The Architecture of a Web Crawler: Building a Google-Inspired Distributed Web Crawler. Part 1](https://medium.com/@tonywangcn/the-architecture-of-a-web-crawler-building-a-google-inspired-distributed-web-crawler-part-1-7f4281f9f539)
 
 ### Uptime Status Page For Self-hosted projects
 
