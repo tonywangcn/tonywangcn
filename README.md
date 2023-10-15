@@ -51,6 +51,8 @@
 
 2023-10-13 [The Architecture of a Web Crawler: Building a Google-Inspired Distributed Web Crawler. Part 1](https://medium.com/@tonywangcn/the-architecture-of-a-web-crawler-building-a-google-inspired-distributed-web-crawler-part-1-7f4281f9f539)
 
+2023-10-14 [Web Crawling at Scale: Navigating Billions of URLs with Efficiency](https://medium.com/p/7a9b9a1e3829)
+
 ### Uptime Status Page For Self-hosted projects
 
 [Uptime](https://uptime.doask.net/status/cloud)
