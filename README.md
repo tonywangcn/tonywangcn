@@ -5,9 +5,9 @@
 ### Hi there 👋
 
 
-With a strong educational foundation in Software Engineering, including a Master's degree from IIT, and a professional journey spanning over 6 years, I specialize in backend development, with proficiency in Golang, Python, and TypeScript/JavaScript. I have a deep understanding of cloud infrastructure management, having worked with Aliyun and AWS, leveraging services such as Lambda, EKS, ECS, ECR, EC2, SSM, Route 53, and ElasticCache.
+With a strong educational foundation in Software Engineering, including a **Master's degree from IIT**, and a professional journey spanning over 6 years, I specialize in backend development, with proficiency in **Golang, Python, and TypeScript/JavaScript**. I have a deep understanding of cloud infrastructure management, having worked with Aliyun and AWS, leveraging services such as Lambda, EKS, ECS, ECR, EC2, SSM, Route 53, and ElasticCache.
 
-Beyond my formal qualifications, I'm an enthusiastic server enthusiast who maintains a personal Kubernetes cluster that stretches across various cloud providers and local servers. This not only keeps my technical skills sharp but also reflects my unwavering commitment to continuous learning and innovation.
+Beyond my formal qualifications, I'm an enthusiastic server enthusiast who maintains a personal **Kubernetes cluster** that stretches across various cloud providers and local servers. This not only keeps my technical skills sharp but also reflects my unwavering commitment to continuous learning and innovation.
 
 I'm not just a technologist; I'm also a contributor to the tech community. I share my knowledge and insights through technical articles on Medium, accessible at [Medium Profile](https://medium.com/@tonywangcn). This is my way of fostering a sense of community and demonstrating my genuine passion for technology.
 
