@@ -60,6 +60,9 @@ I'm not just a technologist; I'm also a contributor to the tech community. I sha
 
 2023-10-14 [Web Crawling at Scale: Navigating Billions of URLs with Efficiency](https://medium.com/p/7a9b9a1e3829)
 
+2024-10-20 [27.6% of the Top 10 Million Sites are Dead
+](https://tonywang.io/blog/top-10-million-sites-27-percent-dead)
+
 ### Uptime Status Page For Self-hosted projects
 
 [Uptime](https://uptime.doask.net/status/cloud)
