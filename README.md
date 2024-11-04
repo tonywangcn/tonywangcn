@@ -60,8 +60,10 @@ I'm not just a technologist; I'm also a contributor to the tech community. I sha
 
 2023-10-14 [Web Crawling at Scale: Navigating Billions of URLs with Efficiency](https://medium.com/p/7a9b9a1e3829)
 
-2024-10-20 [27.6% of the Top 10 Million Sites are Dead
+2024-10-30 [27.6% of the Top 10 Million Sites are Dead
 ](https://tonywang.io/blog/top-10-million-sites-27-percent-dead)
+
+2024-11-04 [The Infra to handle 10M Requests in 10 Minutes for $0.0116](https://tonywang.io/blog/infra-10m-requests-10-minutes-0.0116)
 
 ### Uptime Status Page For Self-hosted projects
 
