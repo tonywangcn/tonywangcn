@@ -47,23 +47,27 @@ I'm not just a technologist; I'm also a contributor to the tech community. I sha
 
 ### :writing_hand: Blog Posts :
 
-
-
-
-2017-02-28 [How to build a scaleable crawler to crawl million pages with a single machine in just 2 hours](https://medium.com/@tonywangcn/how-to-build-a-scaleable-crawler-to-crawl-million-pages-with-a-single-machine-in-just-2-hours-ab3e238d1c22)
-
-2023-06-12 [A Step-by-Step Guide to Building a Scalable Distributed Crawler for Scraping Millions of Top TikTok Profiles](https://dev.to/tonywangca/a-step-by-step-guide-to-building-a-scalable-distributed-crawler-for-scraping-millions-of-top-tiktok-profiles-2pk8)
-
-2023-08-01 [How to efficiently scrape millions of Google Businesses on a large scale using a distributed crawler](https://medium.com/@tonywangcn/how-to-efficiently-scrape-millions-of-google-businesses-on-a-large-scale-using-a-distributed-35b9140030eb)
-
-2023-10-13 [The Architecture of a Web Crawler: Building a Google-Inspired Distributed Web Crawler. Part 1](https://medium.com/@tonywangcn/the-architecture-of-a-web-crawler-building-a-google-inspired-distributed-web-crawler-part-1-7f4281f9f539)
-
-2023-10-14 [Web Crawling at Scale: Navigating Billions of URLs with Efficiency](https://medium.com/p/7a9b9a1e3829)
+2024-11-04 [The Infra to handle 10M Requests in 10 Minutes for $0.0116](https://tonywang.io/blog/infra-10m-requests-10-minutes-0.0116)
 
 2024-10-30 [27.6% of the Top 10 Million Sites are Dead
 ](https://tonywang.io/blog/top-10-million-sites-27-percent-dead)
 
-2024-11-04 [The Infra to handle 10M Requests in 10 Minutes for $0.0116](https://tonywang.io/blog/infra-10m-requests-10-minutes-0.0116)
+2023-10-14 [Web Crawling at Scale: Navigating Billions of URLs with Efficiency](https://medium.com/p/7a9b9a1e3829)
+
+2023-10-13 [The Architecture of a Web Crawler: Building a Google-Inspired Distributed Web Crawler. Part 1](https://medium.com/@tonywangcn/the-architecture-of-a-web-crawler-building-a-google-inspired-distributed-web-crawler-part-1-7f4281f9f539)
+
+2023-08-01 [How to efficiently scrape millions of Google Businesses on a large scale using a distributed crawler](https://medium.com/@tonywangcn/how-to-efficiently-scrape-millions-of-google-businesses-on-a-large-scale-using-a-distributed-35b9140030eb)
+
+2023-06-12 [A Step-by-Step Guide to Building a Scalable Distributed Crawler for Scraping Millions of Top TikTok Profiles](https://dev.to/tonywangca/a-step-by-step-guide-to-building-a-scalable-distributed-crawler-for-scraping-millions-of-top-tiktok-profiles-2pk8)
+
+2017-02-28 [How to build a scaleable crawler to crawl million pages with a single machine in just 2 hours](https://medium.com/@tonywangcn/how-to-build-a-scaleable-crawler-to-crawl-million-pages-with-a-single-machine-in-just-2-hours-ab3e238d1c22)
+
+
+
+
+
+
+
 
 ### Uptime Status Page For Self-hosted projects
 
