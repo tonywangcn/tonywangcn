@@ -67,7 +67,7 @@ I'm not just a technologist; I'm also a contributor to the tech community. I sha
 
 ### Uptime Status Page For Self-hosted projects
 
-[Uptime](https://uptime.doask.net/status/cloud)
+[Uptime](https://uptime.tonywang.io/status/cloud)
 
 ### Self-hosted Architecture
 
